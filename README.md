@@ -28,7 +28,7 @@ Este repositório contém o código para uma galeria de imagens simples, mostran
 
 **Observações:**
 
-- As imagens utilizadas no projeto são retiradas do Google.
+- As imagens utilizadas no projeto são retiradas do Pexels.
 
 
 
