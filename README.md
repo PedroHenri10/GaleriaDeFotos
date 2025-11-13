@@ -2,6 +2,12 @@
 
 Este repositório contém o código para uma galeria de imagens simples, mostrando diferentes cidades ao redor do mundo.  Ele foi construído utilizando HTML e CSS,  com foco em um design limpo e moderno.
 
+## Desktop
+![imagem desktop](src/img/tmp_81faea7c-d694-44a0-82ee-2463b0b9a264.png)
+
+## Mobile
+![imagem mobile](src/img/Screenshot_20251022-140034.png)
+
 **Recursos:**
 
 - **Design Responsivo:**  A galeria se adapta suavemente a diferentes tamanhos de tela, garantindo uma ótima experiência visual em dispositivos móveis e desktops.
